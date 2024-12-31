@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{529F2998-C643-4514-8339-6D634E5D886E}|y245060024_NDPOdevi_OzelDersSistemi\\y245060024_NDPOdevi_OzelDersSistemi.csproj|c:\\users\\nihan\\desktop\\yeni klas\u00F6r\\ndp-dersi-projesi\\y245060024_ndpodevi_ozelderssistemi\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529F2998-C643-4514-8339-6D634E5D886E}|y245060024_NDPOdevi_OzelDersSistemi\\y245060024_NDPOdevi_OzelDersSistemi.csproj|solutionrelative:y245060024_ndpodevi_ozelderssistemi\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529F2998-C643-4514-8339-6D634E5D886E}|y245060024_NDPOdevi_OzelDersSistemi\\y245060024_NDPOdevi_OzelDersSistemi.csproj|C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\OzelDersYonetimSistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529F2998-C643-4514-8339-6D634E5D886E}|y245060024_NDPOdevi_OzelDersSistemi\\y245060024_NDPOdevi_OzelDersSistemi.csproj|solutionrelative:y245060024_NDPOdevi_OzelDersSistemi\\OzelDersYonetimSistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529F2998-C643-4514-8339-6D634E5D886E}|y245060024_NDPOdevi_OzelDersSistemi\\y245060024_NDPOdevi_OzelDersSistemi.csproj|C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\OzelDersKaydi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529F2998-C643-4514-8339-6D634E5D886E}|y245060024_NDPOdevi_OzelDersSistemi\\y245060024_NDPOdevi_OzelDersSistemi.csproj|solutionrelative:y245060024_NDPOdevi_OzelDersSistemi\\OzelDersKaydi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529F2998-C643-4514-8339-6D634E5D886E}|y245060024_NDPOdevi_OzelDersSistemi\\y245060024_NDPOdevi_OzelDersSistemi.csproj|C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\Ogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529F2998-C643-4514-8339-6D634E5D886E}|y245060024_NDPOdevi_OzelDersSistemi\\y245060024_NDPOdevi_OzelDersSistemi.csproj|solutionrelative:y245060024_NDPOdevi_OzelDersSistemi\\Ogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529F2998-C643-4514-8339-6D634E5D886E}|y245060024_NDPOdevi_OzelDersSistemi\\y245060024_NDPOdevi_OzelDersSistemi.csproj|C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\Ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529F2998-C643-4514-8339-6D634E5D886E}|y245060024_NDPOdevi_OzelDersSistemi\\y245060024_NDPOdevi_OzelDersSistemi.csproj|solutionrelative:y245060024_NDPOdevi_OzelDersSistemi\\Ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529F2998-C643-4514-8339-6D634E5D886E}|y245060024_NDPOdevi_OzelDersSistemi\\y245060024_NDPOdevi_OzelDersSistemi.csproj|C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\IOzelDersBilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529F2998-C643-4514-8339-6D634E5D886E}|y245060024_NDPOdevi_OzelDersSistemi\\y245060024_NDPOdevi_OzelDersSistemi.csproj|solutionrelative:y245060024_NDPOdevi_OzelDersSistemi\\IOzelDersBilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529F2998-C643-4514-8339-6D634E5D886E}|y245060024_NDPOdevi_OzelDersSistemi\\y245060024_NDPOdevi_OzelDersSistemi.csproj|C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529F2998-C643-4514-8339-6D634E5D886E}|y245060024_NDPOdevi_OzelDersSistemi\\y245060024_NDPOdevi_OzelDersSistemi.csproj|solutionrelative:y245060024_NDPOdevi_OzelDersSistemi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OzelDersYonetimSistemi.cs",
+              "DocumentMoniker": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\OzelDersYonetimSistemi.cs",
+              "RelativeDocumentMoniker": "y245060024_NDPOdevi_OzelDersSistemi\\OzelDersYonetimSistemi.cs",
+              "ToolTip": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\OzelDersYonetimSistemi.cs",
+              "RelativeToolTip": "y245060024_NDPOdevi_OzelDersSistemi\\OzelDersYonetimSistemi.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:54:58.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OzelDersKaydi.cs",
+              "DocumentMoniker": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\OzelDersKaydi.cs",
+              "RelativeDocumentMoniker": "y245060024_NDPOdevi_OzelDersSistemi\\OzelDersKaydi.cs",
+              "ToolTip": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\OzelDersKaydi.cs",
+              "RelativeToolTip": "y245060024_NDPOdevi_OzelDersSistemi\\OzelDersKaydi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:54:54.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ogretmen.cs",
+              "DocumentMoniker": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\Ogretmen.cs",
+              "RelativeDocumentMoniker": "y245060024_NDPOdevi_OzelDersSistemi\\Ogretmen.cs",
+              "ToolTip": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\Ogretmen.cs",
+              "RelativeToolTip": "y245060024_NDPOdevi_OzelDersSistemi\\Ogretmen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:54:51.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "y245060024_NDPOdevi_OzelDersSistemi\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\Ogrenci.cs",
+              "RelativeToolTip": "y245060024_NDPOdevi_OzelDersSistemi\\Ogrenci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:54:46.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kisi.cs",
+              "DocumentMoniker": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\Kisi.cs",
+              "RelativeDocumentMoniker": "y245060024_NDPOdevi_OzelDersSistemi\\Kisi.cs",
+              "ToolTip": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\Kisi.cs",
+              "RelativeToolTip": "y245060024_NDPOdevi_OzelDersSistemi\\Kisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:54:39.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOzelDersBilgi.cs",
+              "DocumentMoniker": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\IOzelDersBilgi.cs",
+              "RelativeDocumentMoniker": "y245060024_NDPOdevi_OzelDersSistemi\\IOzelDersBilgi.cs",
+              "ToolTip": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\IOzelDersBilgi.cs",
+              "RelativeToolTip": "y245060024_NDPOdevi_OzelDersSistemi\\IOzelDersBilgi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:54:35.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "y245060024_NDPOdevi_OzelDersSistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\Nihan\\Desktop\\Yeni klas\u00F6r\\NDP-Dersi-Projesi\\y245060024_NDPOdevi_OzelDersSistemi\\Program.cs",
+              "RelativeToolTip": "y245060024_NDPOdevi_OzelDersSistemi\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:52:32.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
